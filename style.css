@@ -20,3 +20,11 @@ audio {
   margin: 10px 0 30px;
 }
 
+.logo {
+  max-width: 600px;
+  height: auto;
+  margin-bottom: 20px;
+  display: block;
+  margin: 0 auto 30px;
+}
+
