@@ -1,0 +1,22 @@
+body {
+  font-family: system-ui, sans-serif;
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 0 20px;
+  line-height: 1.6;
+}
+
+nav {
+  margin-bottom: 30px;
+}
+
+nav a {
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+audio {
+  display: block;
+  margin: 10px 0 30px;
+}
+
